@@ -1,0 +1,53 @@
+{
+    "name": "iGeolise",
+    "description": "<p>The TravelTime API helps users find locations by journey time rather than using &lsquo;as the crow flies&rsquo; distance. Time-based searching gives users more opportunities for personalisation and delivers a more relevant search.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28682-docs-traveltimeplatform-com.jpg",
+    "tags": [
+        "have api",
+        "locations",
+        "maps"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/igeolise\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "iGeolise",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28682-docs-traveltimeplatform-com.jpg",
+            "humanURL": "https:\/\/www.traveltimeplatform.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/igeolise-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "http:\/\/docs.traveltimeplatform.com\/reference\/auth\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.traveltimeplatform.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.traveltimeplatform.com\/overview\/introduction"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/igeolise"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.traveltimeplatform.com\/"
+        }
+    ]
+}
